@@ -27,15 +27,6 @@ A base de conhecimento do agente foi construída com as seguintes referências:
 
 ---
 
-## 🛠️ Recursos e Materiais Didáticos Gerados
-
-Aproveitando os recursos de geração de formatos dinâmicos do NotebookLM, criei materiais de apoio visual para auxiliar no aprendizado:
-
-*   📇 [Cards Didáticos Interativos](https://notebooklm.google.com/notebook/e81eb4fe-a512-4cb7-8e63-ae058c0acf68/artifact/eeda8654-d992-400a-adf9-df6a1dc9b60c?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
-*   🗺️ [Mapa Mental do Projeto](https://notebooklm.google.com/notebook/e81eb4fe-a512-4cb7-8e63-ae058c0acf68/artifact/55e74dff-eeb9-4145-a8af-4f991f1a4c91?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
-
----
-
 ## 🚀 Como a Tecnologia Funciona (Ancoragem RAG)
 
 Diferente de uma IA comum que "chuta" respostas baseadas em dados genéricos da internet, este agente utiliza a arquitetura de **Geração Recuperada por Ancoragem (RAG)** proporcionada pelo NotebookLM. Isso significa que ele lê a pergunta do usuário, busca a informação correta dentro das 5 fontes de curadoria listadas acima e formula uma resposta contextualizada apenas com o que é verdade factual desses documentos.
@@ -46,3 +37,12 @@ Diferente de uma IA comum que "chuta" respostas baseadas em dados genéricos da 
 *  Como de fato estruturar uma IA para reduzir/evitar alucinações.
 *  A utilização prática de RAG para obtenção de resultados acertivos
 *  Proximo desafio: utilizar o agente e testar sua capacidade , criando um mini-projeto de semáforo com arduíno
+
+  
+## 🛠️ Links rápidos do projeto 
+
+Aproveitando os recursos de geração de formatos dinâmicos do NotebookLM, criei materiais de apoio visual para auxiliar no aprendizado:
+* 🚀 [Acesse o Agente no NotebookLM](https://notebooklm.google.com/notebook/e81eb4fe-a512-4cb7-8e63-ae058c0acf68)
+*   📇 [Cards Didáticos Interativos](https://notebooklm.google.com/notebook/e81eb4fe-a512-4cb7-8e63-ae058c0acf68/artifact/eeda8654-d992-400a-adf9-df6a1dc9b60c?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
+*   🗺️ [Mapa Mental do Projeto](https://notebooklm.google.com/notebook/e81eb4fe-a512-4cb7-8e63-ae058c0acf68/artifact/55e74dff-eeb9-4145-a8af-4f991f1a4c91?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
+
